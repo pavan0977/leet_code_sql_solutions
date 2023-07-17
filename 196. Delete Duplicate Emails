@@ -1,0 +1,1 @@
+delete p from person p inner join person p2 where  p.id>p2.id and p.email=p2.email;
